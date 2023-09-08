@@ -4,7 +4,7 @@ Tetris clone made in Python using Pygame by [veranovus](https://veranovus.dev/).
 I only own copyright to the code for the game none of the assets are made by me.
 
 <img width="640" alt="python-tetris-0" src="res/git/python-tetris-0.png">
-<img width="640" alt="python-tetris-1" src="red/git/python-tetris-1.png">
+<img width="640" alt="python-tetris-1" src="res/git/python-tetris-1.png">
 
 ## How to Play
 
