@@ -1,6 +1,6 @@
 # Python Tetris Clone
 
-Tetris clone made in Python using Pygame by [veranovus](https://veranovus.dev/).
+Tetris clone made in Python using Pygame by veranovus.
 
 <img width="640" alt="python-tetris-0" src="res/git/python-tetris-0.png">
 <img width="640" alt="python-tetris-1" src="res/git/python-tetris-1.png">
